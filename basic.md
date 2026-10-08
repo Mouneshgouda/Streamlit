@@ -181,7 +181,8 @@ print("GFG")
 
 ### Output
 
-![st.subheader Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909171959612610/Screenshot_2026-09-09_17-19-43.png)
+<img width="839" height="349" alt="image" src="https://github.com/user-attachments/assets/c6aedfec-d0b7-4662-8e99-de79bb0a8af7" />
+
 
 ### Explanation
 
@@ -219,7 +220,8 @@ st.write(100)
 
 ### Output
 
-![st.write Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909172051502526/Screenshot_2026-09-09_17-20-39.png)
+<img width="839" height="349" alt="image" src="https://github.com/user-attachments/assets/b32a993d-a908-4fd3-9ffe-64a82032084c" />
+
 
 ### Explanation
 
@@ -250,7 +252,8 @@ st.markdown("**Interactive Python Applications**")
 
 ### Output
 
-![st.markdown Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909172145604675/Screenshot_2026-09-09_17-21-18.png)
+<img width="839" height="349" alt="image" src="https://github.com/user-attachments/assets/ffc24ab7-0cbf-475f-8808-9fe62553fd49" />
+
 
 ### Explanation
 
@@ -279,7 +282,7 @@ st.caption("Data updated on September 8, 2026")
 
 ### Output
 
-![st.caption Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909172253494341/Screenshot_2026-09-09_17-22-40.png)
+<img width="839" height="349" alt="image" src="https://github.com/user-attachments/assets/8a664914-cd0e-4498-8d8e-d82f18b03eba" />
 
 ### Explanation
 
@@ -314,7 +317,8 @@ st.code(code, language="python")
 
 ### Output
 
-![st.code Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909172354520171/Screenshot_2026-09-09_17-23-35.png)
+<img width="839" height="349" alt="image" src="https://github.com/user-attachments/assets/dcb8a9a5-29cd-4a06-a401-b62bbf48505e" />
+
 
 ### Explanation
 
@@ -362,7 +366,8 @@ st.dataframe(df)
 
 ### Output
 
-![st.dataframe Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909172451931004/Screenshot_2026-09-09_17-24-41.png)
+<img width="839" height="349" alt="image" src="https://github.com/user-attachments/assets/cbeef9bb-807d-48b5-b526-561dccfaff04" />
+
 
 ### Explanation
 
@@ -398,7 +403,8 @@ st.json(data)
 
 ### Output
 
-![st.json Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909172633306372/Screenshot_2026-09-09_17-26-22.png)
+<img width="851" height="425" alt="image" src="https://github.com/user-attachments/assets/3bd87e4b-d994-46da-a84e-1b0415a518ef" />
+
 
 ### Explanation
 
@@ -445,7 +451,8 @@ st.line_chart(data)
 
 ### Output
 
-![Line Chart Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909172721013899/Screenshot_2026-09-09_17-27-07.png)
+<img width="851" height="425" alt="image" src="https://github.com/user-attachments/assets/8d458dc9-bd26-49ed-8c1e-bdbc65bef93b" />
+
 
 ### Explanation
 
@@ -481,7 +488,8 @@ st.bar_chart(data, x="Product", y="Sales")
 
 ### Output
 
-![Bar Chart Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909172820951994/Screenshot_2026-09-09_17-28-13.png)
+<img width="851" height="425" alt="image" src="https://github.com/user-attachments/assets/a6d88252-37d9-421d-836a-90057c45e709" />
+
 
 ### Explanation
 
@@ -519,7 +527,8 @@ st.map(data)
 
 ### Output
 
-![Map Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909172914983846/Screenshot_2026-09-09_17-29-06.png)
+<img width="869" height="643" alt="image" src="https://github.com/user-attachments/assets/8372cb23-7732-4b84-8e81-3ffb1ad92e93" />
+
 
 ### Explanation
 
@@ -558,7 +567,8 @@ if st.button("Click Me"):
 
 ### Output
 
-![Button Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909173047143008/Screenshot_2026-09-09_17-30-37.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/6a3efdd2-b4fe-4dea-9132-2612f3053b7a" />
+
 
 ### Explanation
 
@@ -591,7 +601,8 @@ if show_data:
 
 ### Output
 
-![Checkbox Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909173134128363/Screenshot_2026-09-09_17-31-24.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/a207db32-a518-43d4-8443-84b4a2a17500" />
+
 
 ### Explanation
 
@@ -626,7 +637,8 @@ st.write("Selected:", language)
 
 ### Output
 
-![Radio Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909173216183946/Screenshot_2026-09-09_17-32-01.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/d1c6e24a-cdad-448d-9410-c112bf9c60ff" />
+
 
 ### Explanation
 
@@ -661,7 +673,8 @@ st.write("Selected city:", city)
 
 ### Output
 
-![Selectbox Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909173306826139/Screenshot_2026-09-09_17-32-51.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/c678612c-c649-46ea-87ee-416854876a96" />
+
 
 ### Explanation
 
@@ -696,7 +709,8 @@ st.write("Selected Skills:", skills)
 
 ### Output
 
-![Multiselect Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909173431827087/Screenshot_2026-09-09_17-34-17.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/4f318558-fbb3-4930-8974-adaf0c2c26e7" />
+
 
 ### Explanation
 
@@ -732,7 +746,8 @@ st.write("Age:", age)
 
 ### Output
 
-![Number Input Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909173525283987/Screenshot_2026-09-09_17-35-15.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/361578f3-dcd2-467b-8c8d-c5c6cfff8abd" />
+
 
 ### Explanation
 
@@ -765,7 +780,8 @@ if name:
 
 ### Output
 
-![Text Input Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909173619719376/Screenshot_2026-09-09_17-36-09.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/b95c4716-59e8-48ac-baef-5ff609f6bd75" />
+
 
 ### Explanation
 
@@ -797,7 +813,8 @@ st.write("Message:", message)
 
 ### Output
 
-![Text Area Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909173723904568/Screenshot_2026-09-09_17-37-14.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/017bd940-ebea-4931-8266-483ebecbaf9b" />
+
 
 ### Explanation
 
@@ -828,7 +845,8 @@ st.write("Enabled:", dark_mode)
 
 ### Output
 
-![Toggle Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909174547627029/Screenshot_2026-09-09_17-45-38.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/eb03b60c-a2e2-410e-bec6-2fbcb0b1b528" />
+
 
 ### Explanation
 
@@ -871,7 +889,8 @@ if file is not None:
 
 ### Output
 
-![File Uploader Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909174632606626/Screenshot_2026-09-09_17-46-24.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/2055ab42-0205-471e-9cf9-ceb36bb198c7" />
+
 
 ### Explanation
 
@@ -908,7 +927,8 @@ st.download_button(
 
 ### Output
 
-![Download Button Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909174715695656/Screenshot_2026-09-09_17-47-07.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/cdfec7da-c837-4dbf-80a6-61b9a786d94c" />
+
 
 ### Explanation
 
@@ -991,7 +1011,8 @@ with col2:
 
 ### Output
 
-![Columns Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909174911969222/Screenshot_2026-09-09_17-49-04.png)
+<img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/23aff3bb-1b71-4806-a758-9cc20adf5807" />
+
 
 ### Explanation
 
@@ -1028,7 +1049,8 @@ st.write("Selected:", category)
 
 ### Output
 
-![Sidebar Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909174957211449/Screenshot_2026-09-09_17-49-47.png)
+<img width="936" height="548" alt="image" src="https://github.com/user-attachments/assets/7c513d8a-878c-4e2d-b2ff-61b04eb6e9bc" />
+
 
 ### Explanation
 
@@ -1067,7 +1089,8 @@ with tab2:
 
 ### Output
 
-![Tabs Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909175047617881/Screenshot_2026-09-09_17-50-40.png)
+<img width="859" height="453" alt="image" src="https://github.com/user-attachments/assets/ab178189-bee7-4548-8459-27999a05de6c" />
+
 
 ### Explanation
 
@@ -1098,7 +1121,8 @@ with st.expander("View Details"):
 
 ### Output
 
-![Expander Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909175122612135/Screenshot_2026-09-09_17-51-14.png)
+<img width="859" height="453" alt="image" src="https://github.com/user-attachments/assets/2ce96fca-aa78-4295-968d-92b17a9babe2" />
+
 
 ### Explanation
 
@@ -1129,8 +1153,8 @@ container.write("Second element")
 ```
 
 ### Output
+<img width="859" height="453" alt="image" src="https://github.com/user-attachments/assets/fb80a39b-4f95-4ccb-a473-0604f45d7f0f" />
 
-![Container Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909175205289077/Screenshot_2026-09-09_17-51-56.png)
 
 ### Explanation
 
@@ -1165,7 +1189,7 @@ st.write("More Content")
 
 ### Output
 
-![Divider Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909175241558996/Screenshot_2026-09-09_17-52-33.png)
+
 
 ### Explanation
 
@@ -1295,7 +1319,8 @@ st.write("Count:", st.session_state.count)
 
 ### Output
 
-![Session State Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909175401243056/Screenshot_2026-09-09_17-53-52.png)
+<img width="859" height="453" alt="image" src="https://github.com/user-attachments/assets/4693a0f7-dde2-4d0d-a4df-84a857fd78f6" />
+
 
 ### Explanation
 
@@ -1345,7 +1370,8 @@ pg.run()
 
 ### Output
 
-![Multipage Application Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909175633659828/Screenshot_2026-09-09_17-56-21.png)
+<img width="928" height="608" alt="image" src="https://github.com/user-attachments/assets/2dddba0e-a738-4151-8810-ed5a7b54fce8" />
+
 
 ### Explanation
 
@@ -1437,7 +1463,8 @@ else:
 
 ## 📸 Application Output
 
-![Student Performance Dashboard](https://media.geeksforgeeks.org/wp-content/uploads/20260909175851071054/Screenshot_2026-09-09_17-58-33.png)
+<img width="1910" height="872" alt="image" src="https://github.com/user-attachments/assets/d8126b52-8b9b-4e12-953f-5d6101d19f54" />
+
 
 ---
 
