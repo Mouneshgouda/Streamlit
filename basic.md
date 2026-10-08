@@ -74,7 +74,8 @@ streamlit run file_name.py
 
 ## Output
 
-![Streamlit Application Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909171609718335/Screenshot_2026-09-09_17-15-58.png)
+<img width="839" height="349" alt="image" src="https://github.com/user-attachments/assets/abf81a1f-ad22-42f1-8890-1250ce06d21d" />
+
 
 ## Explanation
 
@@ -120,7 +121,8 @@ st.title("Student Dashboard")
 
 ### Output
 
-![st.title Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909171828985624/Screenshot_2026-09-09_17-17-13.png)
+<img width="839" height="349" alt="image" src="https://github.com/user-attachments/assets/c4bc4d1b-fd21-480f-9aef-841e249e6a29" />
+
 
 ### Explanation
 
@@ -149,7 +151,7 @@ st.header("Student Information")
 
 ### Output
 
-![st.header Output](https://media.geeksforgeeks.org/wp-content/uploads/20260909171829078018/Screenshot_2026-09-09_17-18-00.png)
+
 
 ### Explanation
 
