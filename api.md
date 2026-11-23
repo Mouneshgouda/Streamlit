@@ -1,8 +1,6 @@
 
 
 
-
-
 ```python
 import streamlit as st
 from google import genai
