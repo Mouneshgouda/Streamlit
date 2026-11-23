@@ -45,6 +45,7 @@ if prompt := st.chat_input("Ask something..."):
         response.choices[0].message.content
     )
 
+
 ```
 
 
